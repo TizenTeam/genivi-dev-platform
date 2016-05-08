@@ -26,4 +26,4 @@
 [submodule "meta-genivi-ocf-demo"]
 	path = meta-genivi-ocf-demo
 	url = http://git.projects.genivi.org/meta-genivi-ocf-demo.git
-	branch = genivi
+	branch = sandbox/pcoval/genivi
