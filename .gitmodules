@@ -23,3 +23,7 @@
 	path = meta-oic
 	url = http://git.yoctoproject.org/git/meta-oic.git
 	branch = 1.0.1
+[submodule "meta-genivi-ocf-demo"]
+	path = meta-genivi-ocf-demo
+	url = http://git.projects.genivi.org/meta-genivi-ocf-demo.git
+	branch = genivi
