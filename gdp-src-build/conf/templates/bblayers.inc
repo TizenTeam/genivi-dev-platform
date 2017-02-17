@@ -20,6 +20,7 @@ BBLAYERS ?= " \
   ${TOPDIR}/../meta-rust \
   ${TOPDIR}/../meta-oic \
   ${TOPDIR}/../meta-iot-web \
+  ${TOPDIR}/../meta-ocf-automotive \
   ${TOPDIR}/../meta-erlang \
   ${TOPDIR}/../meta-rvi \
   ${TOPDIR}/../meta-browser \

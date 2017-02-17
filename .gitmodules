@@ -50,3 +50,7 @@
 [submodule "meta-linaro"]
 	path = meta-linaro
 	url = https://git.linaro.org/openembedded/meta-linaro.git
+[submodule "meta-ocf-automotive"]
+	path = meta-ocf-automotive
+	url = https://github.com/TizenTeam/meta-ocf-automotive
+	branch = sandbox/pcoval/on/master/devel
